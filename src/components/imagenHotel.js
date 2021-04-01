@@ -46,7 +46,7 @@ const ImagenHotel = () => {
       }
     }
   `);
-  console.log(image);
+  // console.log(image);
   return (
     <div>
       <ImageBackground tag="section" fluid={image.sharp.fluid}>

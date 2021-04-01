@@ -27,7 +27,8 @@ const NavLink = styled(Link)`
   &:hover,
   &.pagina-actual {
     /* border-bottom: 2px solid #fff; */
-    background-color: #444;
+    /* background-color: #444; */
+    background-color: rgba(55, 75, 95);
     border-radius: 6px;
   }
 `;
